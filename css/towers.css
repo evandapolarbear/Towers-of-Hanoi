@@ -1,0 +1,46 @@
+ul {
+  margin: 50px;
+  float: left;
+}
+
+li {
+  background-color: white;
+  list-style: none;
+
+}
+
+li:hover {
+  background-color: yellow;
+}
+
+.disc3 {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+
+.disc2{
+  height: 50px;
+  width: 100px;
+  background-color: blue;
+}
+
+.disc1 {
+  height: 50px;
+  width: 150px;
+  background-color: green;
+}
+
+.empty {
+  height: 50px;
+  width: 20px;
+  background-color: black;
+}
+
+.hidden{
+  display: none;
+}
+
+.clicked{
+  background-color: white;
+}
